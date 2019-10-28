@@ -1,5 +1,4 @@
-#!/root/PycharmProjects/ProjetoWeb/venv/bin/python
-from django.core import management
-
-if __name__ == "__main__":
-    management.execute_from_command_line()
+#!/home/uniceub/eduardo/web/alunos/gabriel-projeto/venv/bin/python
+# EASY-INSTALL-SCRIPT: 'Django==3.0b1','django-admin.py'
+__requires__ = 'Django==3.0b1'
+__import__('pkg_resources').run_script('Django==3.0b1', 'django-admin.py')
